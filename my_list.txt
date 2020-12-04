@@ -1,4 +1,4 @@
-<li>Haas
+Haas
 Williams
 Mercedes
 Red Bull
@@ -7,4 +7,4 @@ Alfa Romeo
 McLaren
 Renault
 Racing Point
-Ferrari </li>
+Ferrari
